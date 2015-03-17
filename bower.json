@@ -15,7 +15,7 @@
     ".bowerrc",
     ".git",
     "README.md",
-    "lib",
+    "lib"
   ],
   "dependencies": {
     "angular": "~1.3.14",
