@@ -1,16 +1,16 @@
 {
   "name": "rc-test",
   "version": "0.0.0",
+  "main": "src/index.html",
   "homepage": "https://github.com/MiguelChamizo/rc-test",
   "authors": [
-    "jesusweb <jesuslojo@gmail.com>",
-    "MiguelChamizo <miguelchr10@gmail.com>"
+    "MiguelChamizo <miguelchr10@gmail.com>",
+    "jesusweb <jesuslojo@gmail.com>"    
   ],
   "description": "Basic example of AngularJS: Hello AngularJS! I'm (username)",
   "license": "MIT",
   "private": false,
   "ignore": [
-    "**/.*",
     "node_modules",
     "bower_components",
     "lib",
