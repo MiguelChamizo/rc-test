@@ -1,7 +1,7 @@
 {
   "name": "rc-test",
   "version": "0.0.0",
-  "main": "src/index.html",
+  "main: src/index.html"
   "homepage": "https://github.com/MiguelChamizo/rc-test",
   "authors": [
     "MiguelChamizo <miguelchr10@gmail.com>",
@@ -11,6 +11,7 @@
   "license": "MIT",
   "private": false,
   "ignore": [
+    "**/.*",
     "node_modules",
     "bower_components",
     "lib",
